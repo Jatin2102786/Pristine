@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pristine</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="chat">Chat\n</string>
+    <string name="profile">Profile\n</string>
+    <string name="button_corner_radius">15dp\n</string>
+    <string name="heading_size">30sp</string>
+</resources>
